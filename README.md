@@ -1,8 +1,8 @@
-## Ciao! 👋 I'm Mohamed 😀 aka. Mido 😉
+## Ciao! 👋 I'm Mohamed Emam 😀 aka. Mido 😉
 A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 
 ## My Superpowers 💪
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git,react,nodejs,express)
 
 ## Bio 📖
 - 🔭 I’m currently working on building more fun projects & gain more superpowers 🐱‍🏍
